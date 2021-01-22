@@ -1,2 +1,7 @@
 {
+  "features": {
+    "codegen": {
+      "useappsyncmodelgenplugin": true
+    }
+  }
 }
